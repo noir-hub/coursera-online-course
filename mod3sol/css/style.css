@@ -1,1 +1,51 @@
+body {
+	font-family: sans-serif, helvetica;
+}
+body.#head, #header-nav {
+	background-color: #dcfcf4;
+	height:75px;
+	margin-bottom: 0px;
+}
+.header-nav{
+	padding: 0px 0px 0px 20px;
+	height:100%;
 
+}
+.main-heading a{
+	text-decoration: none;
+	margin:0px;
+	padding: 0px;
+	
+}
+.navbar-default{
+	background-color:black; 
+}
+.navbar-nav{
+	text-align: center;
+}
+.container {
+	height: 100%;
+}
+#button {
+	margin: 15px;
+	width: 40px;
+	height: 40px;
+	padding: 0px 0px 0px 8px;
+	border: 1px solid black;
+}
+
+s
+#section-heading {
+	margin-bottom: 40px;
+}
+.container .menu-item {
+	background-color: #91bfbb;
+	margin-bottom: 20px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	height: 80%;
+	box-shadow: 10px 10px 8px #888888;
+}
+.menu-item > p{
+	text-align: left;
+}
